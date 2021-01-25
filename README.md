@@ -1,6 +1,7 @@
-### Hi there 👋 I'm Stepan | Java|C/C++ Developer
+### Hi there 👋 I'm Stepan 
+### And I'm a student at School 21 Moscow campus
 
-## I'm a Software Developer!
+## I'm a Junior Software Developer (Java, C/C++)! 
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Facts: I would change the world, but God doesn't provide sources! 
