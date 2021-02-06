@@ -8,3 +8,5 @@
 - ⚡ And yeah I'm very social with people =)
 
 ![Stepan's github stats](https://github-readme-stats.vercel.app/api?username=ASM717&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASM717&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
