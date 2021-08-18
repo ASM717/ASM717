@@ -8,3 +8,5 @@
 - ⚡ And yeah I'm very social with people =)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASM717&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![amuriel's 21 stats](https://badge42.herokuapp.com/api/stats/amuriel)](https://github.com/JaeSeoKim/badge42)
