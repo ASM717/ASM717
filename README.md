@@ -9,4 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASM717&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
- [![amuriel's 21 stats](https://badge42.herokuapp.com/api/stats/amuriel?darkmode=true)](https://github.com/JaeSeoKim/badge42)
+[![amuriel's 21 stats](https://badge42.herokuapp.com/api/stats/amuriel?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
