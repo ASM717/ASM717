@@ -7,6 +7,11 @@
 - ⚡ Facts: I would change the world, but God doesn't provide sources! 
 - ⚡ And yeah I'm very social with people =)
 
+<p align = 'center'>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASM717&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ </p>
 
-
+<p align = 'center'>
+ <a href="https://github-readme-stats.vercel.app/api?username=ASM717&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=ASM717&show_icons=true&count_private=true" /></a>
+<a href="https://github.com/ASM717/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASM717&layout=compact" /></a>
+ </p>
