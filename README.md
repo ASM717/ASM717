@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20Stepan!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
-# Hi, I'm a Java Developer 👋
+# I'm a Java Developer 👋
 
 Experienced Java Developer with 3+ years in banking and fintech environments. Skilled in designing, developing, and deploying scalable microservices and API solutions using Spring Boot, Hibernate, and Kafka. Passionate about secure, high-performance systems and modern DevOps practices.
 
